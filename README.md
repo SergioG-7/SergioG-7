@@ -39,7 +39,7 @@ Scripts y programas diseñados para automatizar tareas y hacer la vida más fác
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
 | **[DocGenerator](https://github.com/SergioG-7/DocuSorter)** | Herramienta para la generación y formateo automático de documentos, ahorrando horas de trabajo manual. | `[Ej: Python, Word API]` |
-| **[YT-to-MP3](https://github.com/SergioG-7/Youtube-MP3)** | Script eficiente para descargar y convertir audio de YouTube a formato MP3 con metadatos. | `[Ej: Python, Pytube]` |
+| **[YT-to-MP3](https://github.com/SergioG-7/Youtube-MP3)** | Script eficiente para descargar y convertir audio de YouTube a formato MP3 con metadatos. | `Python` |
 | **[Nombre_Otra_Herramienta](ENLACE_AL_REPO)** | [Breve descripción de tu tercera herramienta para qué sirve y qué problema resuelve]. | `[Lenguaje/Tech]` |
 
 ### 🌐 Desarrollo Web y APIs
@@ -62,8 +62,8 @@ Aplicando lógica, matemáticas y físicas para crear experiencias interactivas.
 ## 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
