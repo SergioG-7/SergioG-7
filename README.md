@@ -61,10 +61,11 @@ Aplicando lógica, matemáticas y físicas para crear experiencias interactivas.
 
 ## 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de SergioG-7" />
+  
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</div>
 
 <p align="center">
   <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
