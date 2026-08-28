@@ -40,7 +40,7 @@ Scripts y programas diseñados para automatizar tareas y hacer la vida más fác
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[Smart-DocuSorter(https://github.com/SergioG-7/Smart-DocuSorter)]** | Organizador automático de archivos en segundo plano con OCR, soporte multiformato y clasificación semántica por IA. | Python, Gemini API, Tesseract OCR, Watchdog, Pystray | |
+| **[Smart-DocuSorter](https://github.com/SergioG-7/Smart-DocuSorter)** | Organizador automático de archivos en segundo plano con OCR, soporte multiformato y clasificación semántica por IA. | Python, Gemini API, Tesseract OCR, Watchdog, Pystray | |
 | **[YT-to-MP3](https://github.com/SergioG-7/Youtube-MP3)** | Script eficiente para descargar y convertir audio de YouTube a formato MP3 con metadatos. | `Python` |
 | **[Nombre_Otra_Herramienta](ENLACE_AL_REPO)** | [Breve descripción de tu tercera herramienta para qué sirve y qué problema resuelve]. | `[Lenguaje/Tech]` |
 
