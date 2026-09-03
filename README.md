@@ -53,14 +53,13 @@ Scripts y software diseñado para automatizar procesos y optimizar tareas del d�
 | **[Universal-Media-Downloader](https://github.com/SergioG-7/Universal-Media-Downloader)** | CLI multihilo para descarga y transcodificación de audio/video desde YouTube y Spotify con metadatos ID3, normalización de volumen, transferencia móvil vía QR y exportación .m3u. | Python, yt-dlp, FFmpeg, Mutagen, Rich, Pytest |
 
 ### 🎮 Desarrollo de Videojuegos
-Creación de mecánicas, motores propios, inteligencia artificial y herramientas de desarrollo (Tooling).
+Creación de sistemas de juego, motores propios, inteligencia artificial y herramientas de desarrollo (Tooling).
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[The Mechanic's Apprentice](https://github.com/SergioG-7/The-Mechanics-Apprentice)** | Juego de acción/supervivencia 3D isométrica sobre un motor propio en C++ con arquitectura Data-Driven, editor de niveles desacoplado en C# (.NET WinForms) y sistema de localización CJK dinámico. | C++, Raylib, CMake, C# (.NET WinForms) |
-| **[Tactical Soccer](https://github.com/SergioG-7/Tactical-Soccer)** | Prototipo de fútbol táctico cenital con trazado de rutas en tiempo real, IA adaptativa para reanudaciones a balón parado y UI adaptada a dispositivos móviles con soporte para Safe Area. | Unity, C#, WebGL, Android |
-| **[Endless Pull](https://github.com/SergioG-7/Endless-Pull)** | RPG táctico gacha 2D y simulador de gestión de base con combate por escuadras, arquitectura modular sobre ScriptableObjects y gimnasio desacoplado para entrenamiento de IA por refuerzo (Unity ML-Agents). | Unity, C#, ML-Agents, ScriptableObjects, uGUI |
-
+| **[The Mechanic's Apprentice](https://github.com/SergioG-7/The-Mechanics-Apprentice)** | Juego de acción y supervivencia 3D isométrico desarrollado sobre motor propio en C++. Arquitectura Data-Driven, editor de niveles desacoplado en C# (.NET WinForms) y sistema de localización CJK dinámico. | C++17, Raylib, C# (.NET), CMake |
+| **[Tactical Soccer](https://github.com/SergioG-7/Tactical-Soccer)** | Juego de fútbol táctico 3D con vista cenital y trazado de rutas en tiempo real. Gestión de estados para jugadas a balón parado, IA de reanudación y UI adaptable con soporte nativo para Safe Area. | Unity (C#), WebGL, Android |
+| **[Endless Pull](https://github.com/SergioG-7/Endless-Pull)** | RPG táctico gacha 2D y simulador de gestión de base con combate por escuadras. Arquitectura Data-Driven para 39 héroes, localización CJK sin fallos de renderizado y entorno desacoplado de RL con Unity ML-Agents. | Unity (C#), ML-Agents, TextMeshPro |
 ---
 
 ## 📊 Mis Estadísticas en GitHub
