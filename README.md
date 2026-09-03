@@ -57,7 +57,7 @@ Creación de mecánicas, motores propios, inteligencia artificial y herramientas
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[The Mechanic's Apprentice](https://github.com/SergioG-7/The-Mechanics-Apprentice)** | Juego de acción/supervivencia 3D isométrica sobre un motor propio en C++ con arquitectura Data-Driven, editor de niveles desacoplado en C# (.NET WinForms) y sistema de localización CJK dinámico. | C++17, Raylib, CMake, C# (.NET WinForms) |
+| **[The Mechanic's Apprentice](https://github.com/SergioG-7/The-Mechanics-Apprentice)** | Juego de acción/supervivencia 3D isométrica sobre un motor propio en C++ con arquitectura Data-Driven, editor de niveles desacoplado en C# (.NET WinForms) y sistema de localización CJK dinámico. | C++, Raylib, CMake, C# (.NET WinForms) |
 | **[Tactical Soccer](https://github.com/SergioG-7/Tactical-Soccer)** | Prototipo de fútbol táctico cenital con trazado de rutas en tiempo real, IA adaptativa para reanudaciones a balón parado y UI adaptada a dispositivos móviles con soporte para Safe Area. | Unity, C#, WebGL, Android |
 | **[Endless Pull](https://github.com/SergioG-7/Endless-Pull)** | RPG táctico gacha 2D y simulador de gestión de base con combate por escuadras, arquitectura modular sobre ScriptableObjects y gimnasio desacoplado para entrenamiento de IA por refuerzo (Unity ML-Agents). | Unity, C#, ML-Agents, ScriptableObjects, uGUI |
 
@@ -69,7 +69,3 @@ Creación de mecánicas, motores propios, inteligencia artificial y herramientas
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de SergioG-7" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
-
-<p align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." - Cory House</i>
-</p>
