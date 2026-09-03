@@ -66,6 +66,6 @@ Creación de mecánicas, motores propios, inteligencia artificial y herramientas
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de SergioG-7" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1" alt="Estadísticas de SergioG-7" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical&v=1" alt="Lenguajes más usados" />
 </div>
