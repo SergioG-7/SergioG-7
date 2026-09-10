@@ -59,7 +59,7 @@ Creación de sistemas de juego, motores propios, inteligencia artificial y herra
 | :--- | :--- | :--- |
 | **[The Mechanic's Apprentice](https://github.com/SergioG-7/The-Mechanics-Apprentice)** | Juego de acción y supervivencia 3D isométrico desarrollado sobre motor propio en C++. Arquitectura Data-Driven, editor de niveles desacoplado en C# (.NET WinForms) y sistema de localización CJK dinámico. | C++17, Raylib, C# (.NET), CMake |
 | **[Tactical Soccer](https://github.com/SergioG-7/Tactical-Soccer)** | Juego de fútbol táctico 3D con vista cenital y trazado de rutas en tiempo real. Gestión de estados para jugadas a balón parado, IA de reanudación y UI adaptable con soporte nativo para Safe Area. | Unity (C#), WebGL, Android |
-| **[Endless Pull](https://github.com/SergioG-7/Endless-Pull)** | RPG táctico gacha 2D y simulador de gestión de base con combate por escuadras. Arquitectura Data-Driven para 39 héroes, localización CJK sin fallos de renderizado y entorno desacoplado de RL con Unity ML-Agents. | Unity (C#), ML-Agents, TextMeshPro |
+| **[Endless Pull](https://github.com/SergioG-7/Endless-Pull)** | RPG táctico gacha 2D y simulador de gestión de base con combate por escuadras. Arquitectura Data-Driven (100 héroes, 29 subclases), localización CJK dinámica y entorno de RL desacoplado con Unity ML-Agents. | Unity (C#), ML-Agents, TextMeshPro |
 ---
 
 ## 📊 Mis Estadísticas en GitHub
