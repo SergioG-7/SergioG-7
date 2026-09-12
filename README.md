@@ -85,8 +85,8 @@ Creación de sistemas de juego, motores propios, inteligencia artificial y herra
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ca.png" width="22" alt="" /> Mis Estadísticas en GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Estadísticas de SergioG-7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&v=2" alt="Estadísticas de SergioG-7" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical&hide_border=true&langs_count=8&v=2" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
@@ -94,5 +94,5 @@ Creación de sistemas de juego, motores propios, inteligencia artificial y herra
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioG-7&theme=redical&hide_border=true&area=true" alt="Gráfico de actividad" width="95%" />
+  <img src="https://ghchart.rshah.org/ff3860/SergioG-7" alt="Gráfico de contribuciones" width="95%" />
 </div>
