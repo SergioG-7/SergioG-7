@@ -52,12 +52,13 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f680.png" width="22" alt="" /> Mis Proyectos Destacados
 
-### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f310.png" width="20" alt="" /> Aplicaciones Web y Full-Stack
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f310.png" width="20" alt="" /> Sistemas Distribuidos y Full-Stack
 
-Sistemas completos desplegados en producción con arquitecturas cliente-servidor y flujos de trabajo reales.
+Arquitecturas distribuidas tolerantes a fallos, sistemas cliente-servidor y plataformas web en producción.
 
 | Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
+| **[EVCharging Network](https://github.com/SergioG-7/EVCharging-Network)** | Sistema distribuido para gestión y monitorización de puntos de recarga de vehículos eléctricos en tiempo real[cite: 3, 4]. Arquitectura SOA multi-nodo: streaming asíncrono con Apache Kafka[cite: 3, 4], sockets TCP con cifrado simétrico dinámico por estación[cite: 3], canal seguro SSL/TLS con certificados ante EV_Registry[cite: 3], parada preventiva automática por alertas meteorológicas mediante API de OpenWeather (< 0 °C)[cite: 3] y panel web de control[cite: 3, 4]. | Python, Apache Kafka, Docker, MySQL, Sockets TCP, REST APIs, SSL/TLS, OpenWeather API |
 | **[Gestión de Fincas Agrícolas](https://github.com/SergioG-7/GestionFincas)** | PWA para gestión agrícola integral: matriz táctil con trazabilidad de parcelas por celda, contabilidad en tiempo real, planificación de abonado clonable entre temporadas y autenticación cerrada por JWT. En uso real. | React, Node.js, Express, MySQL (Aiven), Tailwind CSS, PWA |
 | **[Nexus](https://github.com/SergioG-7/Nexus)** | Plataforma para contabilizar y gestionar estadísticas de videojuegos, música y películas consumiendo múltiples APIs externas (IGDB, Spotify, TMDB). | React, JavaScript, Node.js, REST APIs |
 
