@@ -6,9 +6,7 @@
 <h3 align="center">Estudiante de 4º de Ingeniería Informática | Desarrollador de Software</h3>
 
 <p align="center">
-  Construyo cosas desde abajo: motores de juego propios en C++, herramientas de escritorio y sistemas full-stack.
-  Me interesa especialmente lo que hay <i>debajo</i> de la abstracción — colisiones escritas a mano, arquitecturas
-  data-driven y software que sigue funcionando cuando algo falla.
+Desarrollador enfocado en crear herramientas funcionales, sistemas full-stack y entornos interactivos. Me motiva resolver problemas mediante software eficiente, aprender de forma continua y seguir ampliando criterio técnico con cada proyecto.
 </p>
 
 <p align="center">
