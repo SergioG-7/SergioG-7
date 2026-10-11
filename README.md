@@ -87,11 +87,3 @@ Creación de sistemas de juego, motores propios, inteligencia artificial y herra
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=SergioG-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&v=2" alt="Estadísticas de SergioG-7" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SergioG-7&layout=compact&theme=radical&hide_border=true&langs_count=8&v=2" alt="Lenguajes más usados" />
 </div>
-
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=SergioG-7&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/ff3860/SergioG-7" alt="Gráfico de contribuciones" width="95%" />
-</div>
