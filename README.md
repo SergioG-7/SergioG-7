@@ -58,7 +58,7 @@ Arquitecturas distribuidas tolerantes a fallos, sistemas cliente-servidor y plat
 | :--- | :--- | :--- |
 | **[EVCharging Network](https://github.com/SergioG-7/EVCharging-Network)** | Sistema distribuido para gestión y monitorización de puntos de recarga de vehículos eléctricos en tiempo real. Arquitectura SOA multi-nodo: streaming asíncrono con Apache Kafka, sockets TCP con cifrado simétrico dinámico por estación, canal seguro SSL/TLS con certificados ante EV_Registry, parada preventiva automática por alertas meteorológicas mediante API de OpenWeather (< 0 °C) y panel web de control. | Python, Apache Kafka, Docker, MySQL, Sockets TCP, REST APIs, SSL/TLS, OpenWeather API |
 | **[Gestión de Fincas Agrícolas](https://github.com/SergioG-7/GestionFincas)** | PWA para gestión agrícola integral: matriz táctil con trazabilidad de parcelas por celda, contabilidad en tiempo real, planificación de abonado clonable entre temporadas y autenticación cerrada por JWT. En uso real. | React, Node.js, Express, MySQL (Aiven), Tailwind CSS, PWA |
-| **[Nexus](https://github.com/SergioG-7/Nexus)** | Plataforma para contabilizar y gestionar estadísticas de videojuegos, música y películas consumiendo múltiples APIs externas (IGDB, Spotify, TMDB). | React, JavaScript, Node.js, REST APIs |
+| **[Nexus](https://github.com/SergioG-7/Nexus)** | Radar de tendencias de videojuegos, cine, música, anime y libros que integra múltiples APIs, genera rankings y permite explorar históricos y comparar métricas. | Next.js, React, TypeScript, Tailwind CSS, Python, FastAPI, PostgreSQL |
 
 ### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2699.png" width="20" alt="" /> Herramientas y Utilidades
 
