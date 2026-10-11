@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png" width="30" alt="" />
 </h1>
 
-<h3 align="center">Estudiante de 4º de Ingeniería Informática | Desarrollador de Software</h3>
+<h3 align="center">Estudiante de 4º de Ingeniería Informática | Software, Datos, Cloud y ML</h3>
 
 <p align="center">
 Desarrollador enfocado en crear herramientas funcionales, sistemas full-stack y entornos interactivos. Me motiva resolver problemas mediante software eficiente, aprender de forma continua y seguir ampliando criterio técnico con cada proyecto.
